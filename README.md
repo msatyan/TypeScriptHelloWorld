@@ -1,0 +1,2 @@
+# TypeScriptHelloWorld
+TypeScript Hello World
